@@ -1,0 +1,25 @@
+# ----- .NET Core -----
+bin/
+obj/
+.vs/
+*.user
+*.pdb
+*.log
+appsettings.*.local.json
+appsettings.Development.json
+
+# ----- React -----
+node_modules/
+build/
+dist/
+.env
+.env.* 
+
+# ----- Database -----
+*.mdf
+*.ldf
+*.bak
+
+# ----- OS -----
+.DS_Store
+Thumbs.db
