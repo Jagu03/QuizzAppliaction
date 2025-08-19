@@ -1,134 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\KahootApplication\\",
+  "WorkspaceRootPath": "C:\\New Development API 2025\\QuizzAppliaction\\backend\\KahootApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\kahootapplication\\kahoot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\new development api 2025\\quizzappliaction\\backend\\kahootapplication\\kahoot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|solutionrelative:kahoot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\kahootapplication\\kahoot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\new development api 2025\\quizzappliaction\\backend\\kahootapplication\\kahoot\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|solutionrelative:kahoot\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\new development api 2025\\quizzappliaction\\backend\\kahootapplication\\kahoot\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|solutionrelative:kahoot\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\new development api 2025\\quizzappliaction\\backend\\kahootapplication\\kahoot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|solutionrelative:kahoot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\kahootapplication\\kahoot\\services\\implementations\\quizattemptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|solutionrelative:kahoot\\services\\implementations\\quizattemptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\new development api 2025\\quizzappliaction\\backend\\kahootapplication\\kahoot\\services\\implementations\\studentauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|solutionrelative:kahoot\\services\\implementations\\studentauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\kahootapplication\\kahoot\\models\\assignment\\publishassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|solutionrelative:kahoot\\models\\assignment\\publishassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\kahootapplication\\kahoot\\services\\implementations\\assignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|solutionrelative:kahoot\\services\\implementations\\assignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\kahootapplication\\kahoot\\services\\implementations\\questionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|solutionrelative:kahoot\\services\\implementations\\questionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\kahootapplication\\kahoot\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|solutionrelative:kahoot\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\kahootapplication\\kahoot\\services\\interfaces\\iassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|solutionrelative:kahoot\\services\\interfaces\\iassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\kahootapplication\\kahoot\\models\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|solutionrelative:kahoot\\models\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\kahootapplication\\kahoot\\controllers\\quizattemptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|solutionrelative:kahoot\\controllers\\quizattemptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\kahootapplication\\kahoot\\models\\quiz\\attemptoptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|solutionrelative:kahoot\\models\\quiz\\attemptoptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\kahootapplication\\kahoot\\models\\quiz\\attemptquestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|solutionrelative:kahoot\\models\\quiz\\attemptquestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\kahootapplication\\kahoot\\models\\quiz\\studentactiveassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|solutionrelative:kahoot\\models\\quiz\\studentactiveassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\kahootapplication\\kahoot\\services\\interfaces\\iquizattemptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|solutionrelative:kahoot\\services\\interfaces\\iquizattemptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\kahootapplication\\kahoot\\models\\quiz\\startattemptdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|solutionrelative:kahoot\\models\\quiz\\startattemptdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\kahootapplication\\kahoot\\services\\implementations\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|solutionrelative:kahoot\\services\\implementations\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\kahootapplication\\kahoot\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|solutionrelative:kahoot\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\kahootapplication\\kahoot\\services\\interfaces\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|solutionrelative:kahoot\\services\\interfaces\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\kahootapplication\\kahoot\\models\\quiz\\finishattemptdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|solutionrelative:kahoot\\models\\quiz\\finishattemptdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\kahootapplication\\kahoot\\models\\quiz\\answerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|solutionrelative:kahoot\\models\\quiz\\answerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\kahootapplication\\kahoot\\models\\group\\createcustomgroupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|solutionrelative:kahoot\\models\\group\\createcustomgroupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\kahootapplication\\kahoot\\models\\group\\createclassgroupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|solutionrelative:kahoot\\models\\group\\createclassgroupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\kahootapplication\\kahoot\\models\\category\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|solutionrelative:kahoot\\models\\category\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\kahootapplication\\kahoot\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|solutionrelative:kahoot\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\kahootapplication\\kahoot\\services\\interfaces\\iquestionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|solutionrelative:kahoot\\services\\interfaces\\iquestionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\kahootapplication\\kahoot\\models\\insertquestionrequest\\insertquestionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|solutionrelative:kahoot\\models\\insertquestionrequest\\insertquestionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\kahootapplication\\kahoot\\models\\question\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|solutionrelative:kahoot\\models\\question\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\kahootapplication\\kahoot\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|solutionrelative:kahoot\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\kahootapplication\\kahoot\\models\\question\\createquestionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|solutionrelative:kahoot\\models\\question\\createquestionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\kahootapplication\\kahoot\\models\\category\\categoryresultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|solutionrelative:kahoot\\models\\category\\categoryresultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\kahootapplication\\kahoot\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|solutionrelative:kahoot\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\kahootapplication\\kahoot\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|solutionrelative:kahoot\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|c:\\new development api 2025\\quizzappliaction\\backend\\kahootapplication\\kahoot\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66490C40-C47E-4605-AFBE-F429CC191243}|Kahoot\\Kahoot.csproj|solutionrelative:kahoot\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -138,399 +34,83 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\KahootApplication\\Kahoot\\appsettings.json",
-              "RelativeDocumentMoniker": "Kahoot\\appsettings.json",
-              "ToolTip": "C:\\KahootApplication\\Kahoot\\appsettings.json",
-              "RelativeToolTip": "Kahoot\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-18T08:00:24.003Z",
+              "DocumentIndex": 1,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\New Development API 2025\\QuizzAppliaction\\backend\\KahootApplication\\Kahoot\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Kahoot\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\New Development API 2025\\QuizzAppliaction\\backend\\KahootApplication\\Kahoot\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Kahoot\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T07:19:12.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "QuizAttemptService.cs",
-              "DocumentMoniker": "C:\\KahootApplication\\Kahoot\\Services\\Implementations\\QuizAttemptService.cs",
-              "RelativeDocumentMoniker": "Kahoot\\Services\\Implementations\\QuizAttemptService.cs",
-              "ToolTip": "C:\\KahootApplication\\Kahoot\\Services\\Implementations\\QuizAttemptService.cs",
-              "RelativeToolTip": "Kahoot\\Services\\Implementations\\QuizAttemptService.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAlwBUAAAAIAAAAAAAAAA==",
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\New Development API 2025\\QuizzAppliaction\\backend\\KahootApplication\\Kahoot\\Services\\Implementations\\UserService.cs",
+              "RelativeDocumentMoniker": "Kahoot\\Services\\Implementations\\UserService.cs",
+              "ToolTip": "C:\\New Development API 2025\\QuizzAppliaction\\backend\\KahootApplication\\Kahoot\\Services\\Implementations\\UserService.cs",
+              "RelativeToolTip": "Kahoot\\Services\\Implementations\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T14:02:25.043Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AssignmentService.cs",
-              "DocumentMoniker": "C:\\KahootApplication\\Kahoot\\Services\\Implementations\\AssignmentService.cs",
-              "RelativeDocumentMoniker": "Kahoot\\Services\\Implementations\\AssignmentService.cs",
-              "ToolTip": "C:\\KahootApplication\\Kahoot\\Services\\Implementations\\AssignmentService.cs",
-              "RelativeToolTip": "Kahoot\\Services\\Implementations\\AssignmentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T14:02:02.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AssignmentController.cs",
-              "DocumentMoniker": "C:\\KahootApplication\\Kahoot\\Controllers\\AssignmentController.cs",
-              "RelativeDocumentMoniker": "Kahoot\\Controllers\\AssignmentController.cs",
-              "ToolTip": "C:\\KahootApplication\\Kahoot\\Controllers\\AssignmentController.cs",
-              "RelativeToolTip": "Kahoot\\Controllers\\AssignmentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T14:03:33.314Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "QuestionService.cs",
-              "DocumentMoniker": "C:\\KahootApplication\\Kahoot\\Services\\Implementations\\QuestionService.cs",
-              "RelativeDocumentMoniker": "Kahoot\\Services\\Implementations\\QuestionService.cs",
-              "ToolTip": "C:\\KahootApplication\\Kahoot\\Services\\Implementations\\QuestionService.cs",
-              "RelativeToolTip": "Kahoot\\Services\\Implementations\\QuestionService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIAwwBYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T15:58:12.916Z",
+              "WhenOpened": "2025-08-19T07:18:30.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PublishAssignmentDto.cs",
-              "DocumentMoniker": "C:\\KahootApplication\\Kahoot\\Models\\Assignment\\PublishAssignmentDto.cs",
-              "RelativeDocumentMoniker": "Kahoot\\Models\\Assignment\\PublishAssignmentDto.cs",
-              "ToolTip": "C:\\KahootApplication\\Kahoot\\Models\\Assignment\\PublishAssignmentDto.cs",
-              "RelativeToolTip": "Kahoot\\Models\\Assignment\\PublishAssignmentDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T13:52:59.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\KahootApplication\\Kahoot\\Program.cs",
+              "DocumentMoniker": "C:\\New Development API 2025\\QuizzAppliaction\\backend\\KahootApplication\\Kahoot\\Program.cs",
               "RelativeDocumentMoniker": "Kahoot\\Program.cs",
-              "ToolTip": "C:\\KahootApplication\\Kahoot\\Program.cs",
+              "ToolTip": "C:\\New Development API 2025\\QuizzAppliaction\\backend\\KahootApplication\\Kahoot\\Program.cs",
               "RelativeToolTip": "Kahoot\\Program.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-09T14:04:30.447Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IAssignmentService.cs",
-              "DocumentMoniker": "C:\\KahootApplication\\Kahoot\\Services\\Interfaces\\IAssignmentService.cs",
-              "RelativeDocumentMoniker": "Kahoot\\Services\\Interfaces\\IAssignmentService.cs",
-              "ToolTip": "C:\\KahootApplication\\Kahoot\\Services\\Interfaces\\IAssignmentService.cs",
-              "RelativeToolTip": "Kahoot\\Services\\Interfaces\\IAssignmentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "StudentAuthService.cs",
+              "DocumentMoniker": "C:\\New Development API 2025\\QuizzAppliaction\\backend\\KahootApplication\\Kahoot\\Services\\Implementations\\StudentAuthService.cs",
+              "RelativeDocumentMoniker": "Kahoot\\Services\\Implementations\\StudentAuthService.cs",
+              "ToolTip": "C:\\New Development API 2025\\QuizzAppliaction\\backend\\KahootApplication\\Kahoot\\Services\\Implementations\\StudentAuthService.cs",
+              "RelativeToolTip": "Kahoot\\Services\\Implementations\\StudentAuthService.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAkwAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T14:00:54.7Z"
+              "WhenOpened": "2025-08-19T05:22:31.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ApiResponse.cs",
-              "DocumentMoniker": "C:\\KahootApplication\\Kahoot\\Models\\Common\\ApiResponse.cs",
-              "RelativeDocumentMoniker": "Kahoot\\Models\\Common\\ApiResponse.cs",
-              "ToolTip": "C:\\KahootApplication\\Kahoot\\Models\\Common\\ApiResponse.cs",
-              "RelativeToolTip": "Kahoot\\Models\\Common\\ApiResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\New Development API 2025\\QuizzAppliaction\\backend\\KahootApplication\\Kahoot\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Kahoot\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\New Development API 2025\\QuizzAppliaction\\backend\\KahootApplication\\Kahoot\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Kahoot\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T13:58:09.198Z"
+              "WhenOpened": "2025-08-19T05:13:09.302Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "QuizAttemptController.cs",
-              "DocumentMoniker": "C:\\KahootApplication\\Kahoot\\Controllers\\QuizAttemptController.cs",
-              "RelativeDocumentMoniker": "Kahoot\\Controllers\\QuizAttemptController.cs",
-              "ToolTip": "C:\\KahootApplication\\Kahoot\\Controllers\\QuizAttemptController.cs",
-              "RelativeToolTip": "Kahoot\\Controllers\\QuizAttemptController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAlwCcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T14:04:02.462Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AttemptOptionDto.cs",
-              "DocumentMoniker": "C:\\KahootApplication\\Kahoot\\Models\\Quiz\\AttemptOptionDto.cs",
-              "RelativeDocumentMoniker": "Kahoot\\Models\\Quiz\\AttemptOptionDto.cs",
-              "ToolTip": "C:\\KahootApplication\\Kahoot\\Models\\Quiz\\AttemptOptionDto.cs",
-              "RelativeToolTip": "Kahoot\\Models\\Quiz\\AttemptOptionDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T16:20:04.101Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AttemptQuestionDto.cs",
-              "DocumentMoniker": "C:\\KahootApplication\\Kahoot\\Models\\Quiz\\AttemptQuestionDto.cs",
-              "RelativeDocumentMoniker": "Kahoot\\Models\\Quiz\\AttemptQuestionDto.cs",
-              "ToolTip": "C:\\KahootApplication\\Kahoot\\Models\\Quiz\\AttemptQuestionDto.cs",
-              "RelativeToolTip": "Kahoot\\Models\\Quiz\\AttemptQuestionDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T16:19:47.419Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "StudentActiveAssignmentDto.cs",
-              "DocumentMoniker": "C:\\KahootApplication\\Kahoot\\Models\\Quiz\\StudentActiveAssignmentDto.cs",
-              "RelativeDocumentMoniker": "Kahoot\\Models\\Quiz\\StudentActiveAssignmentDto.cs",
-              "ToolTip": "C:\\KahootApplication\\Kahoot\\Models\\Quiz\\StudentActiveAssignmentDto.cs",
-              "RelativeToolTip": "Kahoot\\Models\\Quiz\\StudentActiveAssignmentDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T16:20:20.732Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IQuizAttemptService.cs",
-              "DocumentMoniker": "C:\\KahootApplication\\Kahoot\\Services\\Interfaces\\IQuizAttemptService.cs",
-              "RelativeDocumentMoniker": "Kahoot\\Services\\Interfaces\\IQuizAttemptService.cs",
-              "ToolTip": "C:\\KahootApplication\\Kahoot\\Services\\Interfaces\\IQuizAttemptService.cs",
-              "RelativeToolTip": "Kahoot\\Services\\Interfaces\\IQuizAttemptService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T14:01:13.713Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "StartAttemptDto.cs",
-              "DocumentMoniker": "C:\\KahootApplication\\Kahoot\\Models\\Quiz\\StartAttemptDto.cs",
-              "RelativeDocumentMoniker": "Kahoot\\Models\\Quiz\\StartAttemptDto.cs",
-              "ToolTip": "C:\\KahootApplication\\Kahoot\\Models\\Quiz\\StartAttemptDto.cs",
-              "RelativeToolTip": "Kahoot\\Models\\Quiz\\StartAttemptDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T13:59:39.035Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "GroupService.cs",
-              "DocumentMoniker": "C:\\KahootApplication\\Kahoot\\Services\\Implementations\\GroupService.cs",
-              "RelativeDocumentMoniker": "Kahoot\\Services\\Implementations\\GroupService.cs",
-              "ToolTip": "C:\\KahootApplication\\Kahoot\\Services\\Implementations\\GroupService.cs",
-              "RelativeToolTip": "Kahoot\\Services\\Implementations\\GroupService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T14:01:35.598Z",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\New Development API 2025\\QuizzAppliaction\\backend\\KahootApplication\\Kahoot\\appsettings.json",
+              "RelativeDocumentMoniker": "Kahoot\\appsettings.json",
+              "ToolTip": "C:\\New Development API 2025\\QuizzAppliaction\\backend\\KahootApplication\\Kahoot\\appsettings.json",
+              "RelativeToolTip": "Kahoot\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T08:00:24.003Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "GroupController.cs",
-              "DocumentMoniker": "C:\\KahootApplication\\Kahoot\\Controllers\\GroupController.cs",
-              "RelativeDocumentMoniker": "Kahoot\\Controllers\\GroupController.cs",
-              "ToolTip": "C:\\KahootApplication\\Kahoot\\Controllers\\GroupController.cs",
-              "RelativeToolTip": "Kahoot\\Controllers\\GroupController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T14:02:57.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IGroupService.cs",
-              "DocumentMoniker": "C:\\KahootApplication\\Kahoot\\Services\\Interfaces\\IGroupService.cs",
-              "RelativeDocumentMoniker": "Kahoot\\Services\\Interfaces\\IGroupService.cs",
-              "ToolTip": "C:\\KahootApplication\\Kahoot\\Services\\Interfaces\\IGroupService.cs",
-              "RelativeToolTip": "Kahoot\\Services\\Interfaces\\IGroupService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T14:00:32.352Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "FinishAttemptDto.cs",
-              "DocumentMoniker": "C:\\KahootApplication\\Kahoot\\Models\\Quiz\\FinishAttemptDto.cs",
-              "RelativeDocumentMoniker": "Kahoot\\Models\\Quiz\\FinishAttemptDto.cs",
-              "ToolTip": "C:\\KahootApplication\\Kahoot\\Models\\Quiz\\FinishAttemptDto.cs",
-              "RelativeToolTip": "Kahoot\\Models\\Quiz\\FinishAttemptDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T14:00:10.366Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AnswerDto.cs",
-              "DocumentMoniker": "C:\\KahootApplication\\Kahoot\\Models\\Quiz\\AnswerDto.cs",
-              "RelativeDocumentMoniker": "Kahoot\\Models\\Quiz\\AnswerDto.cs",
-              "ToolTip": "C:\\KahootApplication\\Kahoot\\Models\\Quiz\\AnswerDto.cs",
-              "RelativeToolTip": "Kahoot\\Models\\Quiz\\AnswerDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T13:59:56.78Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CreateCustomGroupDto.cs",
-              "DocumentMoniker": "C:\\KahootApplication\\Kahoot\\Models\\Group\\CreateCustomGroupDto.cs",
-              "RelativeDocumentMoniker": "Kahoot\\Models\\Group\\CreateCustomGroupDto.cs",
-              "ToolTip": "C:\\KahootApplication\\Kahoot\\Models\\Group\\CreateCustomGroupDto.cs",
-              "RelativeToolTip": "Kahoot\\Models\\Group\\CreateCustomGroupDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T13:59:11.244Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "CreateClassGroupDto.cs",
-              "DocumentMoniker": "C:\\KahootApplication\\Kahoot\\Models\\Group\\CreateClassGroupDto.cs",
-              "RelativeDocumentMoniker": "Kahoot\\Models\\Group\\CreateClassGroupDto.cs",
-              "ToolTip": "C:\\KahootApplication\\Kahoot\\Models\\Group\\CreateClassGroupDto.cs",
-              "RelativeToolTip": "Kahoot\\Models\\Group\\CreateClassGroupDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T13:58:55.521Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Question.cs",
-              "DocumentMoniker": "C:\\KahootApplication\\Kahoot\\Models\\Question\\Question.cs",
-              "RelativeDocumentMoniker": "Kahoot\\Models\\Question\\Question.cs",
-              "ToolTip": "C:\\KahootApplication\\Kahoot\\Models\\Question\\Question.cs",
-              "RelativeToolTip": "Kahoot\\Models\\Question\\Question.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T16:19:40.778Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\KahootApplication\\Kahoot\\Services\\Implementations\\CategoryService.cs",
-              "RelativeDocumentMoniker": "Kahoot\\Services\\Implementations\\CategoryService.cs",
-              "ToolTip": "C:\\KahootApplication\\Kahoot\\Services\\Implementations\\CategoryService.cs",
-              "RelativeToolTip": "Kahoot\\Services\\Implementations\\CategoryService.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAswFUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T15:37:04.355Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "IQuestionService.cs",
-              "DocumentMoniker": "C:\\KahootApplication\\Kahoot\\Services\\Interfaces\\IQuestionService.cs",
-              "RelativeDocumentMoniker": "Kahoot\\Services\\Interfaces\\IQuestionService.cs",
-              "ToolTip": "C:\\KahootApplication\\Kahoot\\Services\\Interfaces\\IQuestionService.cs",
-              "RelativeToolTip": "Kahoot\\Services\\Interfaces\\IQuestionService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T16:20:53.068Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "QuestionController.cs",
-              "DocumentMoniker": "C:\\KahootApplication\\Kahoot\\Controllers\\QuestionController.cs",
-              "RelativeDocumentMoniker": "Kahoot\\Controllers\\QuestionController.cs",
-              "ToolTip": "C:\\KahootApplication\\Kahoot\\Controllers\\QuestionController.cs",
-              "RelativeToolTip": "Kahoot\\Controllers\\QuestionController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAgwCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T16:20:10.993Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\KahootApplication\\Kahoot\\Models\\Category\\Category.cs",
-              "RelativeDocumentMoniker": "Kahoot\\Models\\Category\\Category.cs",
-              "ToolTip": "C:\\KahootApplication\\Kahoot\\Models\\Category\\Category.cs",
-              "RelativeToolTip": "Kahoot\\Models\\Category\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T15:34:32.96Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "InsertQuestionRequest.cs",
-              "DocumentMoniker": "C:\\KahootApplication\\Kahoot\\Models\\InsertQuestionRequest\\InsertQuestionRequest.cs",
-              "RelativeDocumentMoniker": "Kahoot\\Models\\InsertQuestionRequest\\InsertQuestionRequest.cs",
-              "ToolTip": "C:\\KahootApplication\\Kahoot\\Models\\InsertQuestionRequest\\InsertQuestionRequest.cs",
-              "RelativeToolTip": "Kahoot\\Models\\InsertQuestionRequest\\InsertQuestionRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T17:12:22.025Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "CreateQuestionRequest.cs",
-              "DocumentMoniker": "C:\\KahootApplication\\Kahoot\\Models\\Question\\CreateQuestionRequest.cs",
-              "RelativeDocumentMoniker": "Kahoot\\Models\\Question\\CreateQuestionRequest.cs",
-              "ToolTip": "C:\\KahootApplication\\Kahoot\\Models\\Question\\CreateQuestionRequest.cs",
-              "RelativeToolTip": "Kahoot\\Models\\Question\\CreateQuestionRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T17:12:27.562Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "CategoryResultModel.cs",
-              "DocumentMoniker": "C:\\KahootApplication\\Kahoot\\Models\\Category\\CategoryResultModel.cs",
-              "RelativeDocumentMoniker": "Kahoot\\Models\\Category\\CategoryResultModel.cs",
-              "ToolTip": "C:\\KahootApplication\\Kahoot\\Models\\Category\\CategoryResultModel.cs",
-              "RelativeToolTip": "Kahoot\\Models\\Category\\CategoryResultModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T15:35:38.269Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\KahootApplication\\Kahoot\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Kahoot\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\KahootApplication\\Kahoot\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "Kahoot\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T15:38:19.239Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\KahootApplication\\Kahoot\\Services\\Interfaces\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "Kahoot\\Services\\Interfaces\\ICategoryService.cs",
-              "ToolTip": "C:\\KahootApplication\\Kahoot\\Services\\Interfaces\\ICategoryService.cs",
-              "RelativeToolTip": "Kahoot\\Services\\Interfaces\\ICategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T15:36:13.592Z"
             }
           ]
         }
