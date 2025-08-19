@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kahoot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a23f09bd4d169d25781067ba1b9c40a651cc415")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kahoot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kahoot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

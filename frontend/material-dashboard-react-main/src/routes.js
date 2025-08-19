@@ -7,11 +7,6 @@ import SignUp from "layouts/authentication/sign-up";
 import QuestionFormPage from "layouts/question";
 import CategoryQuestionsPage from "layouts/categoryQuestions";
 import CategoryCreatePage from "layouts/categoryCreate";
-import QuestionManagerPage from "layouts/questionManagerPage";
-import GroupCreatePage from "layouts/groupCreate";
-import AssignmentPublishPage from "layouts/assignmentPublish";
-import StudentAssignmentsPage from "layouts/studentAssignments";
-import TakeQuizPage from "layouts/takeQuiz";
 
 // @mui icons
 import Icon from "@mui/material/Icon";
@@ -53,7 +48,7 @@ const routes = [
     icon: <CategoryIcon fontSize="small" />,
     route: "/create-category",
     component: <CategoryCreatePage />,
-    noSidenav: false,
+    noSidenav: true,
   },
   {
     type: "collapse",
@@ -62,7 +57,7 @@ const routes = [
     icon: <QuizIcon fontSize="small" />,
     route: "/question",
     component: <QuestionFormPage />,
-    noSidenav: false,
+    noSidenav: true,
   },
   {
     type: "collapse",
@@ -71,16 +66,7 @@ const routes = [
     icon: <Icon fontSize="small">list</Icon>,
     route: "/category-questions",
     component: <CategoryQuestionsPage />,
-    noSidenav: false,
-  },
-  {
-    type: "collapse",
-    name: "Question Manager",
-    key: "question-manager",
-    icon: <Icon fontSize="small">list</Icon>,
-    route: "/question-manager",
-    component: <QuestionManagerPage />,
-    noSidenav: false,
+    noSidenav: true,
   },
   {
     type: "collapse",
@@ -99,42 +85,6 @@ const routes = [
     route: "/authentication/sign-up",
     component: <SignUp />,
     noSidenav: true, // ✅ hide sidebar
-  },
-  {
-    type: "collapse",
-    name: "Create Group",
-    key: "group-create",
-    icon: <Icon fontSize="small">groups</Icon>,
-    route: "/group-create",
-    component: <GroupCreatePage />,
-    noSidenav: false,
-  },
-  {
-    type: "collapse",
-    name: "Publish Assignment",
-    key: "assignment-publish",
-    icon: <Icon fontSize="small">assignment</Icon>,
-    route: "/assignment-publish",
-    component: <AssignmentPublishPage />,
-    noSidenav: false,
-  },
-  {
-    type: "collapse",
-    name: "My Quizzes",
-    key: "student-assignments",
-    icon: <Icon fontSize="small">list_alt</Icon>,
-    route: "/student-assignments",
-    component: <StudentAssignmentsPage />,
-    noSidenav: false,
-  },
-  {
-    type: "collapse",
-    name: "Take Quiz",
-    key: "take-quiz",
-    icon: <Icon fontSize="small">quiz</Icon>,
-    route: "/take-quiz",
-    component: <TakeQuizPage />,
-    noSidenav: false, // typically opened via navigate with state
   },
 ];
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\KahootApplication\\Kahoot\\Kahoot.csproj": {}
+    "C:\\New Development API 2025\\QuizzAppliaction\\backend\\KahootApplication\\Kahoot\\Kahoot.csproj": {}
   },
   "projects": {
-    "C:\\KahootApplication\\Kahoot\\Kahoot.csproj": {
+    "C:\\New Development API 2025\\QuizzAppliaction\\backend\\KahootApplication\\Kahoot\\Kahoot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\KahootApplication\\Kahoot\\Kahoot.csproj",
+        "projectUniqueName": "C:\\New Development API 2025\\QuizzAppliaction\\backend\\KahootApplication\\Kahoot\\Kahoot.csproj",
         "projectName": "Kahoot",
-        "projectPath": "C:\\KahootApplication\\Kahoot\\Kahoot.csproj",
+        "projectPath": "C:\\New Development API 2025\\QuizzAppliaction\\backend\\KahootApplication\\Kahoot\\Kahoot.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\KahootApplication\\Kahoot\\obj\\",
+        "outputPath": "C:\\New Development API 2025\\QuizzAppliaction\\backend\\KahootApplication\\Kahoot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
